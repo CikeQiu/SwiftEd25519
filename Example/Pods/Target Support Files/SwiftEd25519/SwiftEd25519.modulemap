@@ -1,0 +1,6 @@
+framework module SwiftEd25519 {
+  umbrella header "SwiftEd25519-umbrella.h"
+
+  export *
+  module * { export * }
+}

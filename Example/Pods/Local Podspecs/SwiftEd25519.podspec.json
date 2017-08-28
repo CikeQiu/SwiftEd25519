@@ -1,0 +1,27 @@
+{
+  "name": "SwiftEd25519",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftEd25519.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/work_cocody@hotmail.com/SwiftEd25519",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "work_cocody@hotmail.com": "qiuhongyang@askcoin.org"
+  },
+  "source": {
+    "git": "https://github.com/work_cocody@hotmail.com/SwiftEd25519.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftEd25519/Classes/**/*",
+  "dependencies": {
+    "CEd25519": [
+
+    ]
+  }
+}
