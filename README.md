@@ -24,6 +24,11 @@ pod "SwiftEd25519"
 
 work_cocody@hotmail.com, qiuhongyang@askcoin.org
 
+## acknowledgement
+[orlp/ed25519](https://github.com/orlp/ed25519)
+
+[vzsg/ed25519](https://github.com/vzsg/ed25519)
+
 ## License
 
 SwiftEd25519 is available under the MIT license. See the LICENSE file for more info.
